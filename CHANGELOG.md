@@ -20,13 +20,13 @@ General improvement to the repo in this version, with updated docs and new tests
 - 👌 IMPROVE: CC is now more host-agnostic, supporting both GitHub and GitLab, with various changes to the .json file and post-gen script. The goal is to improve support for GitLab as its support in JupyterBook grows (PR: )
 - 👌 IMPROVE: add "None" option to licenses (@TomasBeuzen) (PR: #17)
 - 👌 IMPROVE: change "full_name" to "author_name" in CC json for clarity (@TomasBeuzen) (PR: #2)
-  
+
 - 🐛 FIX: bad reference in LICENSE (@TomasBeuzen) (PR: #16)
 - 🐛 FIX: Need to have `-r` when installing from requirements.txt (@slemonide) (PR: #8)
-  
+
 - 🔧 MAINTAIN: update book template to latest Jupyter Book files (@TomasBeuzen) (PR: #11)
-  
-- 📚 DOCS: update contributing docs (@TomasBeuzen) (PR: #6, #16) 
+
+- 📚 DOCS: update contributing docs (@TomasBeuzen) (PR: #6, #16)
 - 📚 DOCS: fix typo in markdown.md (@westurner) (PR: #12)
 - 📚 DOCS: add changelog (@TomasBeuzen) (PR: #20)
 
