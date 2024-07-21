@@ -31,7 +31,7 @@ pages:
       - public
   only:
     - main
-    
+
 workflow:
   rules:
     - if: $CI_COMMIT_REF_NAME =~ /-wip$/  # Pipelines for branch or tag names that include -wip don't run

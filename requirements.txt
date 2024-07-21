@@ -1,5 +1,5 @@
+black[jupyter]
+cookiecutter
 jupyter-book
 jupytext
-cookiecutter
 pytest
-black
